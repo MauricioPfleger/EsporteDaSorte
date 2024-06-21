@@ -1,21 +1,5 @@
 Numero;Data;Jogo;Resultado1;Resultado2;Aposta;Premio;Campeonato;Apostado
-1;17/06 20:30;Atlético MG x Palmeiras;Palmeiras;;10;R$ 441,55;brasileirao;1
-1;19/06 19:00;Goianiense x Criciúma;Goianiense;;10;R$ 441,55;brasileirao;1
-1;19/06 19:00;Botafogo FR x Athletico PR;Botafogo FR;;10;R$ 441,55;brasileirao;1
-1;19/06 20:00;Juventude x Vasco da Gama;Vasco da Gama;;10;R$ 441,55;brasileirao;1
-2;17/06 20:30;Atlético MG x Palmeiras;Empate;;10;R$ 6.557,94;brasileirao;1
-2;19/06 19:00;Goianiense x Criciúma;Goianiense;;10;R$ 6.557,94;brasileirao;1
-2;19/06 19:00;Botafogo FR x Athletico PR;Botafogo FR;;10;R$ 6.557,94;brasileirao;1
-2;19/06 20:00;Fortaleza x Grêmio;Grêmio;;10;R$ 6.557,94;brasileirao;1
-2;19/06 20:00;Juventude x Vasco da Gama;Vasco da Gama;;10;R$ 6.557,94;brasileirao;1
-2;19/06 21:30;Internacional x Corinthians;Empate;;10;R$ 6.557,94;brasileirao;1
-3;17/06 20:30;Atlético MG x Palmeiras;Empate;;10;R$ 503,84;brasileirao;1
-3;19/06 19:00;Goianiense x Criciúma;Goianiense;;10;R$ 503,84;brasileirao;1
-3;19/06 19:00;Botafogo FR x Athletico PR;Botafogo FR;;10;R$ 503,84;brasileirao;1
-3;19/06 20:00;Fortaleza x Grêmio;Empate;;10;R$ 503,84;brasileirao;1
-4;17/06 20:30;Atlético MG x Palmeiras;Empate;;20;R$ 4.238,12;brasileirao;0
-4;19/06 19:00;Goianiense x Criciúma;Goianiense;;20;R$ 4.238,12;brasileirao;0
-4;19/06 19:00;Botafogo FR x Athletico PR;Botafogo FR;;20;R$ 4.238,12;brasileirao;0
-4;19/06 20:00;Fortaleza x Grêmio;Grêmio;;20;R$ 4.238,12;brasileirao;0
-4;19/06 20:00;Juventude x Vasco da Gama;Juventude;Empate;20;R$ 4.238,12;brasileirao;0
-4;19/06 21:30;Internacional x Corinthians;Empate;;20;R$ 4.238,12;brasileirao;0
+1;22/06 16:00;Criciúma x Botafogo FR;Botafogo FR;;10;R$ 339,22;brasileirao;0
+1;22/06 17:30;Grêmio x Internacional;Grêmio;;10;R$ 339,22;brasileirao;0
+1;22/06 21:30;Vasco da Gama x São Paulo;São Paulo;;10;R$ 339,22;brasileirao;0
+1;23/06 16:00;Fluminense x Flamengo;Flamengo;;10;R$ 339,22;brasileirao;0
