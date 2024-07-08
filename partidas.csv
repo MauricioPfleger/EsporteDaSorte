@@ -1,31 +1,28 @@
 campeonato;time_casa;time_visitante;data;odd_casa;odd_empate;odd_visitante;odd_1x;odd_12;odd_x2
-brasileirao;Cruzeiro;Athletico PR;26/06 19:00;2.25;3.27;3.45;1.33;1.35;1.64
-brasileirao;Botafogo FR;Bragantino;26/06 19:00;2.00;3.44;4.01;1.27;1.33;1.80
-brasileirao;Goianiense;Grêmio;26/06 20:00;2.19;3.23;3.66;1.30;1.36;1.67
-brasileirao;Juventude;Flamengo;26/06 20:00;3.94;3.25;2.09;1.73;1.36;1.27
-brasileirao;Corinthians;Cuiabá;26/06 20:00;1.77;3.58;5.10;1.19;1.30;2.02
-brasileirao;Internacional;Atlético MG;26/06 21:30;2.68;3.07;2.94;1.40;1.39;1.50
-brasileirao;Bahia;Vasco da Gama;26/06 21:30;1.66;3.80;5.73;1.16;1.28;2.18
-brasileirao;Fortaleza;Palmeiras;26/06 21:30;3.31;3.23;2.33;1.60;1.36;1.35
-brasileirao;Fluminense;Vitória BA;27/06 19:00;1.73;3.62;5.36;1.16;1.31;2.11
-brasileirao;São Paulo;Criciúma;27/06 20:00;1.48;4.44;7.23;1.12;1.22;2.58
-brasileirao;Cuiabá;Bragantino;29/06 18:30;2.67;3.21;2.83;1.44;1.36;1.48
-brasileirao;Vasco da Gama;Botafogo FR;29/06 19:00;2.94;3.28;2.54;1.53;1.35;1.42
-brasileirao;Atlético MG;Goianiense;30/06 11:00;1.35;5.14;9.72;1.08;1.17;3.10
-brasileirao;Fortaleza;Juventude;30/06 16:00;1.55;4.08;6.65;1.14;1.25;2.38
-brasileirao;São Paulo;Bahia;30/06 16:00;2.02;3.60;3.73;1.29;1.31;1.78
-brasileirao;Grêmio;Fluminense;30/06 16:00;2.43;3.29;3.08;1.39;1.35;1.56
-brasileirao;Vitória BA;Athletico PR;30/06 18:30;3.04;3.14;2.55;1.52;1.38;1.39
-brasileirao;Flamengo;Cruzeiro;30/06 18:30;1.52;4.42;6.39;1.14;1.22;2.46
-brasileirao;Criciúma;Internacional;30/06 18:30;3.21;3.20;2.40;1.58;1.37;1.36
-brasileirao;Palmeiras;Corinthians;01/07 20:00;1.47;4.17;8.32;1.10;1.24;2.60
-copadobrasil;Internacional;Juventude;10/07 19:00;1.47;4.58;8.24;1.23;1.35;1.84
-copadobrasil;Grêmio;Operário PR;13/07 19:00;1.38;5.27;9.67;1.31;1.35;1.69
-libertadores;Colo Colo;CD Junior FC;13/08 19:00;1.95;3.30;4.48;1.41;1.37;1.52
-libertadores;Grêmio;Fluminense;13/08 19:00;2.17;3.31;3.62;1.06;1.14;3.57
-libertadores;San Lorenzo;Atlético MG;13/08 21:30;2.56;3.21;2.97;1.56;1.37;1.37
-libertadores;CA Penarol;The Strongest;14/08 19:00;1.27;5.76;12.99;1.48;1.35;1.47
-libertadores;Talleres de Cordoba;River Plate;14/08 21:30;3.17;3.18;2.44;1.49;1.37;1.44
-libertadores;Botafogo FR;Palmeiras;14/08 21:30;2.72;3.33;2.69;1.04;1.08;4.68
-libertadores;Club Nacional de Football;São Paulo;15/08 19:00;2.85;3.20;2.65;;;
-libertadores;Flamengo;Bolivar La Paz;15/08 21:30;1.16;8.58;15.68;;;
+brasileirao;Flamengo;Cuiabá;06/07 20:00;1.46;4.53;7.53;1.11;1.21;2.66
+brasileirao;São Paulo;Bragantino;06/07 20:00;1.99;3.44;4.05;1.26;1.33;1.81
+brasileirao;Cruzeiro;Corinthians;07/07 16:00;1.84;3.53;4.68;1.22;1.31;1.94
+brasileirao;Fortaleza;Fluminense;07/07 16:00;1.76;3.77;4.83;1.21;1.28;2.03
+brasileirao;Juventude;Grêmio;07/07 16:00;2.50;3.29;2.98;1.41;1.35;1.54
+brasileirao;Internacional;Vasco da Gama;07/07 18:00;1.58;4.05;6.27;1.15;1.25;2.34
+brasileirao;Vitória BA;Criciúma;07/07 18:30;2.11;3.28;3.84;1.28;1.35;1.72
+brasileirao;Palmeiras;Bahia;07/07 18:30;1.59;4.31;5.62;1.17;1.23;2.32
+brasileirao;Goianiense;Athletico PR;07/07 18:30;2.29;3.33;3.31;1.35;1.35;1.63
+brasileirao;Botafogo FR;Atlético MG;07/07 20:30;1.97;3.55;3.99;1.27;1.31;1.82
+brasileirao;Grêmio;Cruzeiro;10/07 18:30;2.50;3.36;2.92;1.42;1.34;1.54
+brasileirao;Vasco da Gama;Corinthians;10/07 19:00;2.34;3.19;3.35;1.34;1.37;1.60
+brasileirao;Athletico PR;Bahia;10/07 19:00;2.10;3.55;3.55;1.31;1.31;1.73
+brasileirao;Palmeiras;Goianiense;11/07 19:30;1.32;5.19;11.12;1.07;1.17;3.22
+brasileirao;Flamengo;Fortaleza;11/07 20:00;1.59;3.99;6.24;1.15;1.26;2.31
+brasileirao;Criciúma;Fluminense;11/07 20:00;2.43;3.34;3.04;1.40;1.34;1.56
+brasileirao;Atlético MG;São Paulo;11/07 21:30;2.24;3.41;3.33;1.35;1.33;1.65
+brasileirao;Vitória BA;Botafogo FR;11/07 21:30;3.00;3.29;2.48;1.54;1.35;1.40
+libertadores;Colo Colo;CD Junior FC;13/08 19:00;1.95;3.30;4.48;1.23;1.35;1.84
+libertadores;Grêmio;Fluminense;13/08 19:00;2.17;3.31;3.62;1.31;1.35;1.69
+libertadores;San Lorenzo;Atlético MG;13/08 21:30;2.56;3.21;2.97;1.41;1.37;1.52
+libertadores;CA Penarol;The Strongest;14/08 19:00;1.26;5.85;12.88;1.06;1.14;3.58
+libertadores;Talleres de Cordoba;River Plate;14/08 21:30;3.17;3.18;2.44;1.56;1.37;1.37
+libertadores;Botafogo FR;Palmeiras;14/08 21:30;2.72;3.33;2.69;1.48;1.35;1.47
+libertadores;Club Nacional de Football;São Paulo;15/08 19:00;2.85;3.20;2.65;1.49;1.37;1.44
+libertadores;Flamengo;Bolivar La Paz;15/08 21:30;1.16;8.60;15.76;1.04;1.08;4.69
+libertadores;Fluminense;Grêmio;20/08 19:00;3.57;3.31;2.18;+3;equalizer;Aposte Agora

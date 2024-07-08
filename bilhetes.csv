@@ -1,7 +1,11 @@
 Numero;Data;Jogo;Resultado1;Resultado2;Aposta;Premio;Campeonato;Apostado
-1;26/06 19:00;Cruzeiro x Athletico PR;Athletico PR;;5;R$ 258,23;brasileirao;1
-1;26/06 19:00;Botafogo FR x Bragantino;Bragantino;;5;R$ 258,23;brasileirao;1
-1;26/06 20:00;Goianiense x Grêmio;Grêmio;;5;R$ 258,23;brasileirao;1
-2;26/06 19:00;Botafogo FR x Bragantino;Bragantino;;5;R$ 156,44;brasileirao;0
-2;26/06 20:00;Goianiense x Grêmio;Grêmio;;5;R$ 156,44;brasileirao;0
-2;26/06 20:00;Juventude x Flamengo;Flamengo;;5;R$ 156,44;brasileirao;0
+1;06/07 20:00;Flamengo x Cuiabá;Flamengo;Cuiabá;50;R$ 5.317,99;brasileirao;0
+1;06/07 20:00;São Paulo x Bragantino;São Paulo;Bragantino;50;R$ 5.317,99;brasileirao;0
+1;07/07 16:00;Cruzeiro x Corinthians;Empate;Corinthians;50;R$ 5.317,99;brasileirao;0
+1;07/07 16:00;Fortaleza x Fluminense;Empate;Fluminense;50;R$ 5.317,99;brasileirao;0
+1;07/07 16:00;Juventude x Grêmio;Empate;Grêmio;50;R$ 5.317,99;brasileirao;0
+1;07/07 18:30;Vitória BA x Criciúma;Vitória BA;Criciúma;50;R$ 5.317,99;brasileirao;0
+1;07/07 18:30;Palmeiras x Bahia;Palmeiras;Empate;50;R$ 5.317,99;brasileirao;0
+1;07/07 18:30;Goianiense x Athletico PR;Goianiense;Athletico PR;50;R$ 5.317,99;brasileirao;0
+1;07/07 20:30;Botafogo FR x Atlético MG;Empate;Atlético MG;50;R$ 5.317,99;brasileirao;0
+1;07/07 18:00;Internacional x Vasco da Gama;Empate;Vasco da Gama;50;R$ 5.317,99;brasileirao;0
