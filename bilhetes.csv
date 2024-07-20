@@ -1,11 +1,9 @@
 Numero;Data;Jogo;Resultado1;Resultado2;Aposta;Premio;Campeonato;Apostado
-1;06/07 20:00;Flamengo x Cuiabá;Flamengo;Cuiabá;50;R$ 5.317,99;brasileirao;0
-1;06/07 20:00;São Paulo x Bragantino;São Paulo;Bragantino;50;R$ 5.317,99;brasileirao;0
-1;07/07 16:00;Cruzeiro x Corinthians;Empate;Corinthians;50;R$ 5.317,99;brasileirao;0
-1;07/07 16:00;Fortaleza x Fluminense;Empate;Fluminense;50;R$ 5.317,99;brasileirao;0
-1;07/07 16:00;Juventude x Grêmio;Empate;Grêmio;50;R$ 5.317,99;brasileirao;0
-1;07/07 18:30;Vitória BA x Criciúma;Vitória BA;Criciúma;50;R$ 5.317,99;brasileirao;0
-1;07/07 18:30;Palmeiras x Bahia;Palmeiras;Empate;50;R$ 5.317,99;brasileirao;0
-1;07/07 18:30;Goianiense x Athletico PR;Goianiense;Athletico PR;50;R$ 5.317,99;brasileirao;0
-1;07/07 20:30;Botafogo FR x Atlético MG;Empate;Atlético MG;50;R$ 5.317,99;brasileirao;0
-1;07/07 18:00;Internacional x Vasco da Gama;Empate;Vasco da Gama;50;R$ 5.317,99;brasileirao;0
+1;11/07 19:30;Palmeiras x Goianiense;Palmeiras;;20;R$ 927,88;brasileirao;0
+1;11/07 20:00;Flamengo x Fortaleza;Flamengo;;20;R$ 927,88;brasileirao;0
+1;10/07 19:00;Vasco da Gama x Corinthians;Vasco da Gama;Empate;20;R$ 927,88;brasileirao;0
+1;10/07 18:30;Grêmio x Cruzeiro;Empate;Cruzeiro;20;R$ 927,88;brasileirao;0
+1;10/07 19:00;Athletico PR x Bahia;Athletico PR;;20;R$ 927,88;brasileirao;0
+1;11/07 20:00;Criciúma x Fluminense;Criciúma;;20;R$ 927,88;brasileirao;0
+1;11/07 21:30;Atlético MG x São Paulo;Atlético MG;Empate;20;R$ 927,88;brasileirao;0
+1;11/07 21:30;Vitória BA x Botafogo FR;Vitória BA;Botafogo FR;20;R$ 927,88;brasileirao;0
