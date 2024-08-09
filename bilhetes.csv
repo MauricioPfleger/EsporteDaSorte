@@ -1,9 +1,7 @@
 Numero;Data;Jogo;Resultado1;Resultado2;Aposta;Premio;Campeonato;Apostado
-1;11/07 19:30;Palmeiras x Goianiense;Palmeiras;;20;R$ 927,88;brasileirao;0
-1;11/07 20:00;Flamengo x Fortaleza;Flamengo;;20;R$ 927,88;brasileirao;0
-1;10/07 19:00;Vasco da Gama x Corinthians;Vasco da Gama;Empate;20;R$ 927,88;brasileirao;0
-1;10/07 18:30;Grêmio x Cruzeiro;Empate;Cruzeiro;20;R$ 927,88;brasileirao;0
-1;10/07 19:00;Athletico PR x Bahia;Athletico PR;;20;R$ 927,88;brasileirao;0
-1;11/07 20:00;Criciúma x Fluminense;Criciúma;;20;R$ 927,88;brasileirao;0
-1;11/07 21:30;Atlético MG x São Paulo;Atlético MG;Empate;20;R$ 927,88;brasileirao;0
-1;11/07 21:30;Vitória BA x Botafogo FR;Vitória BA;Botafogo FR;20;R$ 927,88;brasileirao;0
+1;27/07 19:00;Juventude x Criciúma;Juventude;;10;R$ 1.720,80;brasileirao;0
+1;27/07 19:00;Palmeiras x Vitória BA;Palmeiras;;10;R$ 1.720,80;brasileirao;0
+1;27/07 20:00;Bahia x Internacional;Bahia;;10;R$ 1.720,80;brasileirao;0
+1;27/07 21:30;Fortaleza x São Paulo;Empate;;10;R$ 1.720,80;brasileirao;0
+1;27/07 21:30;Botafogo FR x Cruzeiro;Empate;;10;R$ 1.720,80;brasileirao;0
+1;28/07 11:00;Bragantino x Fluminense;Bragantino;;10;R$ 1.720,80;brasileirao;0
